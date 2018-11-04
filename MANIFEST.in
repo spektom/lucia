@@ -1,0 +1,3 @@
+include requirements.txt
+prune tests/
+exclude Makefile

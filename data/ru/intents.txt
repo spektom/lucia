@@ -1,0 +1,19 @@
+__label__farewell давай
+__label__farewell до встречи
+__label__farewell до новых встреч
+__label__farewell до свидания
+__label__farewell еще увидимся
+__label__farewell пока
+__label__farewell прощай
+__label__farewell скоро увидимся
+__label__farewell чао
+__label__greeting доброе утро
+__label__greeting добрый вечер
+__label__greeting добрый день
+__label__greeting здорова
+__label__greeting здравствуй
+__label__greeting здравствуйте
+__label__greeting йоханга
+__label__greeting привет
+__label__greeting приветствую
+__label__greeting хелоу
